@@ -5,7 +5,7 @@ rtp://239.253.92.83:8012
 rtp://239.253.92.190:6065
 #EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3综艺
 rtp://239.253.92.191:6057
-#EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4亚洲
+#EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4中文
 rtp://239.253.92.251:6141
 #EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV-5体育
 rtp://239.253.92.181:6046
@@ -517,7 +517,7 @@ rtp://239.253.93.175:6439
 rtp://239.253.93.164:6440
 #EXTINF:-1 group-title="5 特色高清"tvg-name="梨园高清" tvg-logo="https://live.fanmingming.com/tv/梨园高清.png",梨园高清
 rtp://239.253.93.133:6441
-#EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV-4K
+#EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png",CCTV-4K
 rtp://239.253.93.134:6631
 #EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV4中文国际欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4中文国际欧洲.png",CCTV4中文国际欧洲
 rtp://239.253.93.192:6370

@@ -105,7 +105,7 @@ rtp://239.253.92.19:6145
 rtp://239.253.92.202:6147
 #EXTINF:-1 group-title="2 卫视高清"tvg-name="海南卫视高清" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视高清
 rtp://239.253.93.155:6323
-#EXTINF:-1 group-title="2 卫视高清"tvg-name="BRTV纪实科教" tvg-logo="https://live.fanmingming.com/tv/BRTV纪实科教.png",BRTV纪实科教
+#EXTINF:-1 group-title="2 卫视高清"tvg-name="BRTV纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",BRTV纪实科教
 rtp://239.253.93.190:6358
 #EXTINF:-1 group-title="3 地方频道"tvg-name="承德新闻综合" tvg-logo="https://live.fanmingming.com/tv/承德新闻综合.png",承德新闻综合
 rtp://239.253.92.222:8112
@@ -421,7 +421,7 @@ rtp://239.253.92.249:6103
 rtp://239.253.92.25:6104
 #EXTINF:-1 group-title="5 特色高清"tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png",早期教育
 rtp://239.253.92.39:6107
-#EXTINF:-1 group-title="5 特色高清"tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png",梨园
+#EXTINF:-1 group-title="5 特色高清"tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png",梨园
 rtp://239.253.92.152:8086
 #EXTINF:-1 group-title="5 特色高清"tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png",汽摩
 rtp://239.253.92.46:6110
@@ -455,7 +455,7 @@ rtp://239.253.93.225:6403
 rtp://239.253.93.226:6404
 #EXTINF:-1 group-title="5 特色高清"tvg-name="都市剧场高清" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场高清
 rtp://239.253.93.227:6405
-#EXTINF:-1 group-title="5 特色高清"tvg-name="茶频道高清" tvg-logo="https://live.fanmingming.com/tv/茶频道.png",茶频道高清
+#EXTINF:-1 group-title="5 特色高清"tvg-name="茶频道高清" tvg-logo="https://live.fanmingming.com/tv/茶.png",茶频道高清
 rtp://239.253.93.212:6390
 #EXTINF:-1 group-title="5 特色高清"tvg-name="天元围棋" tvg-logo="https://live.fanmingming.com/tv/天元围棋.png",天元围棋
 rtp://239.253.93.211:6389

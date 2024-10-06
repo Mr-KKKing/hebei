@@ -211,7 +211,7 @@ rtp://239.253.93.158:6326
 rtp://239.253.93.160:6328
 #EXTINF:-1 group-title="4县域频道"tvg-name="康保电视" tvg-logo="https://live.fanmingming.com/tv/康保电视.png",康保电视
 rtp://239.253.93.165:6333
-#EXTINF:-1 group-title="4县域视高清"tvg-name="遵化电视" tvg-logo="https://live.fanmingming.com/tv/遵化电视.png",遵化电视
+#EXTINF:-1 group-title="4县域频道"tvg-name="遵化电视" tvg-logo="https://live.fanmingming.com/tv/遵化电视.png",遵化电视
 rtp://239.253.93.177:6345
 #EXTINF:-1 group-title="4县域频道"tvg-name="昌黎电视" tvg-logo="https://live.fanmingming.com/tv/昌黎电视.png",昌黎电视
 rtp://239.253.92.109:6217
@@ -381,7 +381,7 @@ rtp://239.253.93.203:6381
 rtp://239.253.93.204:6382
 #EXTINF:-1 group-title="2卫视高清"tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东教育
 rtp://239.253.92.106:6135
-#EXTINF:-1 group-title="5特色视高清"tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
+#EXTINF:-1 group-title="5特色高清"tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png",兵团卫视
 rtp://239.253.93.176:6344
 #EXTINF:-1 group-title="5特色高清"tvg-name="百姓健康" tvg-logo="https://live.fanmingming.com/tv/百姓健康.png",百姓健康
 rtp://239.253.92.199:6568

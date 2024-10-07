@@ -30,7 +30,7 @@ rtp://239.253.92.198:6063
 #EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15音乐
 rtp://239.253.93.154:6322
 #EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV-16奥林匹克
-rtp://239.253.93.154:6322
+rtp://239.253.93.207:6385
 #EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17农业农村
 rtp://239.253.93.150:6318
 #EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV-5+体育赛事

@@ -55,16 +55,6 @@ rtp://239.253.92.175:6005
 rtp://239.253.92.176:6006
 #EXTINF:-1 group-title="2 卫视高清"tvg-name="三佳购物高清" tvg-logo="https://live.fanmingming.com/tv/三佳购物.png",三佳购物高清
 rtp://239.253.92.24:8130
-#EXTINF:-1 group-title="4 地方频道"tvg-name="睛彩河北" tvg-logo="https://live.fanmingming.com/tv/睛彩河北.png",睛彩河北
-rtp://239.253.92.104:6221
-#EXTINF:-1 group-title="4 地方频道"tvg-name="石家庄新闻综合高清" tvg-logo="https://live.fanmingming.com/tv/石家庄新闻综合.png",石家庄新闻综合高清
-rtp://239.253.92.149:6035
-#EXTINF:-1 group-title="4 地方频道"tvg-name="石家庄娱乐" tvg-logo="https://live.fanmingming.com/tv/石家庄娱乐.png",石家庄娱乐
-rtp://239.253.92.93:8120
-#EXTINF:-1 group-title="4 地方频道"tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png",石家庄生活
-rtp://239.253.92.94:8121
-#EXTINF:-1 group-title="4 地方频道"tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png",石家庄都市
-rtp://239.253.92.95:8122
 #EXTINF:-1 group-title="2 卫视高清"tvg-name="湖南卫视高清" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视高清
 rtp://239.253.92.84:8015
 #EXTINF:-1 group-title="2 卫视高清"tvg-name="浙江卫视高清" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视高清
@@ -131,6 +121,16 @@ rtp://239.253.92.41:8052
 rtp://239.253.92.48:8053
 #EXTINF:-1 group-title="2 卫视高清"tvg-name="BRTV纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",BRTV纪实科教
 rtp://239.253.93.190:6358
+#EXTINF:-1 group-title="4 地方频道"tvg-name="睛彩河北" tvg-logo="https://live.fanmingming.com/tv/睛彩河北.png",睛彩河北
+rtp://239.253.92.104:6221
+#EXTINF:-1 group-title="4 地方频道"tvg-name="石家庄新闻综合高清" tvg-logo="https://live.fanmingming.com/tv/石家庄新闻综合.png",石家庄新闻综合高清
+rtp://239.253.92.149:6035
+#EXTINF:-1 group-title="4 地方频道"tvg-name="石家庄娱乐" tvg-logo="https://live.fanmingming.com/tv/石家庄娱乐.png",石家庄娱乐
+rtp://239.253.92.93:8120
+#EXTINF:-1 group-title="4 地方频道"tvg-name="石家庄生活" tvg-logo="https://live.fanmingming.com/tv/石家庄生活.png",石家庄生活
+rtp://239.253.92.94:8121
+#EXTINF:-1 group-title="4 地方频道"tvg-name="石家庄都市" tvg-logo="https://live.fanmingming.com/tv/石家庄都市.png",石家庄都市
+rtp://239.253.92.95:8122
 #EXTINF:-1 group-title="4 地方频道"tvg-name="承德新闻综合" tvg-logo="https://live.fanmingming.com/tv/承德新闻综合.png",承德新闻综合
 rtp://239.253.92.222:8112
 #EXTINF:-1 group-title="4 地方频道"tvg-name="承德公共" tvg-logo="https://live.fanmingming.com/tv/承德公共.png",承德公共
@@ -575,27 +575,5 @@ rtp://239.253.92.114:6187
 rtp://239.253.93.202:6380
 #EXTINF:-1 group-title="6 特色高清"tvg-name="点掌财经专区" tvg-logo="https://live.fanmingming.com/tv/点掌财经专区.png",点掌财经专区
 rtp://239.253.92.236:6448
-#EXTINF:-1 group-title="6 特色高清"tvg-name="PPTV7-铁血英超" tvg-logo="https://live.fanmingming.com/tv/PPTV7.png",PPTV7-铁血英超
-http://192.168.50.1:8686/rtp/239.253.92.212:6096
-#EXTINF:-1 group-title="6 特色高清"tvg-name="PPTV8-魅力西甲" tvg-logo="https://live.fanmingming.com/tv/PPTV8.png",PPTV8-魅力西甲
-http://192.168.50.1:8686/rtp/239.253.92.213:6097
-#EXTINF:-1 group-title="6 特色高清"tvg-name="PPTV9-荣耀中超" tvg-logo="https://live.fanmingming.com/tv/PPTV9.png",PPTV9-荣耀中超
-http://192.168.50.1:8686/rtp/239.253.92.214:6098
-#EXTINF:-1 group-title="6 特色高清"tvg-name="PPTV10-聚体育" tvg-logo="https://live.fanmingming.com/tv/PPTV10.png",PPTV10-聚体育
-http://192.168.50.1:8686/rtp/239.253.92.217:6099
-#EXTINF:-1 group-title="6 特色高清"tvg-name="电竞世界" tvg-logo="https://live.fanmingming.com/tv/电竞世界.png",电竞世界
-http://192.168.50.1:8686/rtp/239.253.92.57:6140
-#EXTINF:-1 group-title="6 特色高清"tvg-name="PPTV-1" tvg-logo="https://live.fanmingming.com/tv/PPTV1.png",PPTV-1
-http://192.168.50.1:8686/rtp/239.253.92.237:6081
-#EXTINF:-1 group-title="6 特色高清"tvg-name="PPTV-2" tvg-logo="https://live.fanmingming.com/tv/PPTV2.png",PPTV-2
-http://192.168.50.1:8686/rtp/239.253.92.238:6082
-#EXTINF:-1 group-title="6 特色高清"tvg-name="PPTV-3" tvg-logo="https://live.fanmingming.com/tv/PPTV3.png",PPTV-3
-http://192.168.50.1:8686/rtp/239.253.92.239:6083
-#EXTINF:-1 group-title="6 特色高清"tvg-name="PPTV-4" tvg-logo="https://live.fanmingming.com/tv/PPTV4.png",PPTV-4
-http://192.168.50.1:8686/rtp/239.253.92.240:6084
-#EXTINF:-1 group-title="6 特色高清"tvg-name="PPTV-5" tvg-logo="https://live.fanmingming.com/tv/PPTV5.png",PPTV-5
-http://192.168.50.1:8686/rtp/239.253.92.241:6085
-#EXTINF:-1 group-title="6 特色高清"tvg-name="PPTV-6" tvg-logo="https://live.fanmingming.com/tv/PPTV6.png",PPTV-6
-http://192.168.50.1:8686/rtp/239.253.92.242:6086
 #EXTINF:-1 group-title="6 特色高清"tvg-name="党教" tvg-logo="https://live.fanmingming.com/tv/党教.png",党教
 rtp://239.253.92.125:6024

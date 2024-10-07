@@ -29,10 +29,14 @@ rtp://239.253.92.13:8008
 rtp://239.253.92.198:6063
 #EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV15" ,CCTV-15音乐
 rtp://239.253.93.154:6322
+#EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV16" ,CCTV-16奥林匹克
+rtp://239.253.93.207:6385
 #EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV17" ,CCTV-17农业农村
 rtp://239.253.93.150:6318
 #EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV5+" ,CCTV-5+体育赛事
 rtp://239.253.92.82:8013
+#EXTINF:-1 group-title="1 央视高清"tvg-name="CCTV奥林匹克4K" ,CCTV-奥林匹克4K
+rtp://239.253.93.208:6386
 #EXTINF:-1 group-title="1 央视高清"tvg-name="CGTN国际" ,CGTN国际
 rtp://239.253.92.15:8011
 #EXTINF:-1 group-title="2 卫视高清"tvg-name="河北卫视高清" ,河北卫视高清
@@ -49,6 +53,8 @@ rtp://239.253.92.174:6004
 rtp://239.253.92.175:6005
 #EXTINF:-1 group-title="2 卫视高清"tvg-name="河北农民高清" ,河北农民高清
 rtp://239.253.92.176:6006
+#EXTINF:-1 group-title="2 卫视高清"tvg-name="三佳购物高清" ,三佳购物高清
+rtp://239.253.92.24:8130
 #EXTINF:-1 group-title="3 地方频道"tvg-name="睛彩河北" ,睛彩河北
 rtp://239.253.92.104:6221
 #EXTINF:-1 group-title="3 地方频道"tvg-name="石家庄新闻综合高清" ,石家庄新闻综合高清
@@ -371,6 +377,12 @@ http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 group-title="5 特色高清"tvg-name="凤凰香港" ,凤凰香港
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="5 特色高清"tvg-name="凤凰卫视-中文" ,凤凰卫视-中文
+rtp://239.253.93.82:6248
+#EXTINF:-1 group-title="5 特色高清"tvg-name="凤凰卫视-资讯" ,凤凰卫视-资讯
+rtp://239.253.93.83:6249
+#EXTINF:-1 group-title="5 特色高清"tvg-name="凤凰卫视-影视" ,凤凰卫视-影视
+rtp://239.253.93.81:6247
 #EXTINF:-1 group-title="5 特色高清"tvg-name="纪实人文高清" ,纪实人文高清
 rtp://239.253.92.99:6013
 #EXTINF:-1 group-title="5 特色高清"tvg-name="中国教育-1高清" ,中国教育-1高清

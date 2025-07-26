@@ -571,3 +571,17 @@ rtp://239.253.93.202:6380
 rtp://239.253.92.236:6448
 #EXTINF:-1 group-title="6 特色高清"tvg-name="党教" ,党教
 rtp://239.253.92.125:6024
+#EXTINF:-1 group-title="7 4K频道"tvg-name="CCTV-4K 25帧" ,CCTV-4K  25帧
+rtp://239.253.93.134:6631
+#EXTINF:-1 group-title="7 4K频道"tvg-name="CCTV-4K" ,CCTV-4K 
+rtp://239.253.94.43:6468
+#EXTINF:-1 group-title="7 4K频道"tvg-name="广东卫视4K" ,广东卫视4K
+rtp://239.253.92.116:6029
+#EXTINF:-1 group-title="7 4K频道"tvg-name="央视4k 50帧" ,央视4k 50帧
+rtp://239.253.92.219:6228
+#EXTINF:-1 group-title="7 4K频道"tvg-name="北京卫视4k 25帧" ,北京卫视4k 25帧
+rtp://239.253.92.220:6229
+#EXTINF:-1 group-title="7 4K频道"tvg-name="北京卫视4k" ,北京卫视4k
+rtp://239.253.94.41:6466
+#EXTINF:-1 group-title="7 4K频道"tvg-name="北京卫视超高清" ,北京卫视超高清
+rtp://239.253.94.42:6467
